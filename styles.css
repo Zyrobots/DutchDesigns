@@ -13,7 +13,7 @@
 body {
   font-family: Arial, sans-serif;
   min-height: 100vh;
-  color: white;
+  color: gray;
   background:
     linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)),
     url("https://cdn.discordapp.com/attachments/1346423941228527678/1467610970804322438/RobloxScreenShot20250816_003646762_-_Copy.webp?ex=6981ab7a&is=698059fa&hm=72c66c7591f11b85984d0961af5057f302c88008db73dc6581cddabfe83863f9&");
