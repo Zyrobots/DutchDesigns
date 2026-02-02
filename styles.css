@@ -70,14 +70,15 @@ body {
   opacity: 0.7;
 }
 
-/* HERO */
 .hero {
   height: 100vh;
   display: flex;
+  flex-direction: column;   /* DIT IS DE FIX */
   justify-content: center;
   align-items: center;
   padding-top: 82px;
 }
+
 
 /* CARD */
 .card {
